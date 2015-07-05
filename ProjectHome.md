@@ -1,0 +1,1 @@
+In conjunction with blog posts at http://javagamexyz.blogspot.com/ this repository will host the code as we progress to build a game using Libgdx and Artemis.
